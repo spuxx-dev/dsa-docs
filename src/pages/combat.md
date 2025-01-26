@@ -19,7 +19,7 @@ Die Initative gibt vor, in welcher Reihenfolge die Kampfteilnehmer zum Zug komme
 Jeder Kampfteilnehmer kann während einer Kampfrunde standardmäßig **zwei normale Aktionen** ausführen.
 Hinzu kommt eine sog. **freie Aktion**. Als Faustregel gilt: Eine normale Aktion ist eine Aktion,
 die die volle Aufmerksamkeit erfordert. Eine freie Aktion ist eine Aktion, die auch gut "nebenbei"
-erledigt werden kann. Diese Aktionen können jederzeit ausgeführt werden.
+erledigt werden kann.
 
 | Beispiel                        | Aktionstyp     |
 | ------------------------------- | -------------- |

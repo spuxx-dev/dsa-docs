@@ -1,0 +1,35 @@
+.header {
+  position: absolute;
+  top: 0;
+  display: flex;
+  height: var(--header-height);
+  width: 100%;
+  padding: 0 0.5rem;
+  justify-content: center;
+  /* border-bottom: 1px solid black; */
+  /* box-shadow: 0px 0px 10px gray; */
+
+  :global(nav) {
+    display: flex;
+    height: 100%;
+
+    --tab-border-height: 4px;
+
+    :global(.ra) {
+      margin: auto 0.5rem;
+    }
+
+    :global(a) {
+      display: flex;
+      align-items: center;
+      height: calc(100% - var(--tab-border-height));
+      color: inherit;
+      border-bottom: var(--tab-border-height) solid transparent;
+    }
+
+    :global(a[data-active='true']) {
+      color: inherit;
+      border-color: var(--color-primary);
+    }
+  }
+}

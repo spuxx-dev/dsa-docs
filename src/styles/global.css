@@ -1,0 +1,31 @@
+@import 'rpg-awesome/css/rpg-awesome.min.css';
+@import 'oldbook.css';
+@import 'sketchy.css';
+
+:root {
+  --header-height: 55px;
+  --color-primary: #8b0000;
+  --box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+html {
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-image: url('/small-parchment.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body {
+  display: contents;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}

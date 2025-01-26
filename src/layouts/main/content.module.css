@@ -1,0 +1,11 @@
+.main {
+  margin: auto;
+  max-width: 1000px;
+  padding: var(--header-height) 1rem 0 1rem;
+  box-sizing: border-box;
+  padding-bottom: 5rem;
+
+  > table {
+    margin: auto;
+  }
+}

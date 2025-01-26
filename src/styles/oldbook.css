@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&display=swap');
 
 body {
-  margin: auto;
-  max-width: 600px;
   font-family: 'IM Fell DW Pica', serif;
   font-size: large;
 }

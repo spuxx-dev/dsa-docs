@@ -1,0 +1,17 @@
+.background {
+  position: fixed;
+  height: 105svh;
+  width: 105svw;
+  background-image: url('/dsa-docs/small-parchment.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -1;
+}
+
+@media screen and (min-width: 768px) {
+  .background {
+    background-image: url('/dsa-docs/large-parchment.jpg');
+  }
+}

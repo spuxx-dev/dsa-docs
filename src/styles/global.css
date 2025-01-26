@@ -29,3 +29,9 @@ body {
   align-items: center;
   gap: 1rem;
 }
+
+@media screen and (min-width: 768px) {
+  html {
+    background-image: url('/dsa-docs/large-parchment.jpg');
+  }
+}

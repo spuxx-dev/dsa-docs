@@ -1,7 +1,7 @@
 .background {
   position: fixed;
-  height: 105svh;
-  width: 105svw;
+  height: 105lvh;
+  width: 105lvw;
   background-image: url('/dsa-docs/small-parchment.jpg');
   background-size: cover;
   background-position: center;

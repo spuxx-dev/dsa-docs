@@ -3,8 +3,8 @@ import styles from './header.module.css';
 import { For } from 'solid-js/web';
 
 const links: { href: string; title: string; icon: string }[] = [
-  { href: '/dsa-docs/', title: 'Home', icon: 'castle-emblem' },
-  { href: '/dsa-docs/combat/', title: 'Kampfregeln', icon: 'crossed-swords' },
+  { href: '/dsa-docs', title: 'Home', icon: 'castle-emblem' },
+  { href: '/dsa-docs/combat', title: 'Kampfregeln', icon: 'crossed-swords' },
 ];
 
 interface Props {
@@ -20,7 +20,7 @@ export const Header: Component<Props> = (props) => {
             <a
               href={item.href}
               title={item.title}
-              data-active={props.pathname === item.href}
+              data-active={props.pathname.replace(/\/$/, '') === item.href}
             >
               <span class={`ra ra-2x ra-${item.icon}`} />
             </a>

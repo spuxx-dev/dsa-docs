@@ -42,6 +42,20 @@ Ein Held kann **Atem holen**, um Ausdauer in Höhe seiner **Konstitution** zu re
 Dazu muss er zwei Aktionen in Folge keinerlei Handlungen durchführen. Betragen die Ausdauerpunkte
 des Helden 0, kann er keine der o.g. Aktionen durchführen.
 
+## Ausweichen
+
+Ein Held kann Ausweichen, um einen Angriff abzuwehren.
+
+<span class="ra ra-perspective-dice-one"></span> `PA-Basis - BE`
+
+Weicht ein Held aus, um einen Angriff abzuewehren, springt er im Grunde zur Seite. Es ist wahrscheinlich,
+dass er sich anschließend in einer für ihn ungünstigen Position wiederfindet. Seine INI sinkt um zwei Punkte
+und er muss eine Aktion aufbringen, um sich wieder in Position zu bringen.
+
+Alternativ dazu kann ein Held **gezielt ausweichen**. Beim Gezielten Ausweichen wird die Erschwerung
+in **doppelter Höhe** angerechnet. Dafür erleidet der Held keinen INI-Verlust und muss sich nicht
+wieder in Position bringen.
+
 ## Fernkampf
 
 ### Modifikatoren

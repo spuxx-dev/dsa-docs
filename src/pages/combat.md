@@ -55,3 +55,42 @@ umfassen zum Beispiel Auswirkungen von Zielgröße, Deckung oder Entfernung.
 | Normaler Schuss         | +0          |
 | Schwieriger Schuss      | +4          |
 | Sehr schwieriger Schuss | +8          |
+
+## Glücklicher Angriff
+
+Einen kritischen Treffer erzeugt man, indem man in einem Angriffswurf eine 1 würfelt und anschließend
+einen Bestätigungswurf besteht (bei Zaubern müssen zwei von drei Würfeln eine 1 zeigen, dafür entfällt
+der Bestätigungswurf).
+Die Abwehr eines kritischen Treffers (Parade, Ausweichen etc.) ist um den halben Wert erschwert.
+Kritische Treffer verursachen immer doppelten Schaden.
+
+## Glückliche Abwehr
+
+Eine glückliche Parade (oder glückliches Ausweichen) erzeugt man, indem man in einem
+Verteidugungswurf eine 1 würfelt und anschließend einen Bestätigungswurf besteht.
+Glückliche Paraden oder glückliches Ausweichen verbrauchen keine Aktion.
+
+## Patzer
+
+Patzer bei Angriffen oder Verteidigungen können zufällige Ereignisse zur Folge haben.
+Das Ereignis wird mit Hilfe von 2W6 festgestellt (siehe Meisterschirm, Patzertabelle).
+
+- 2: Waffe zerstört
+- 3-5: Sturz, erfordert 1 Aktion & GE-Probe erschwert um BE zum Aufstehen
+- 6-8: Stolpern, INI -2
+- 9-10: Waffe verloren, erfordert 1 Aktion & GE-Probe zum Aufheben
+- 11: An eigener Waffe verletzt, verursacht halben Waffenschaden
+- 12: Schwerer Eigentreffer, verursacht vollen Waffenschaden
+
+## Bruchfaktor
+
+Der Bruchfaktor beschreibt den Zustand eines Ausrüstungsgegenstandes. Eine Waffe bricht, wenn:
+
+<span class="ra ra-perspective-dice-one"></span> `2W6 <= Bruchfaktor`
+
+Bei jeder Bruchfaktorprobe steigt der Bruchfaktor um 1.
+Die folgenden Ereignisse können Bruchfaktorproben auslösen:
+
+- Patzer (siehe #patzer)
+- Parade eines kritischen Treffers (sowohl Verteidiger als auch Angreifer)
+- Glückliche Parade (nur Angreifer)

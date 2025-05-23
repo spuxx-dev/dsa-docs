@@ -48,7 +48,7 @@ Ein Held kann Ausweichen, um einen Angriff abzuwehren.
 
 <span class="ra ra-perspective-dice-one"></span> `PA-Basis - BE`
 
-Weicht ein Held aus, um einen Angriff abzuewehren, springt er im Grunde zur Seite. Es ist wahrscheinlich,
+Weicht ein Held aus, um einen Angriff abzuwehren, springt er im Grunde zur Seite. Es ist wahrscheinlich,
 dass er sich anschließend in einer für ihn ungünstigen Position wiederfindet. Seine INI sinkt um zwei Punkte
 und er muss eine Aktion aufbringen, um sich wieder in Position zu bringen.
 

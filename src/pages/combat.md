@@ -56,6 +56,12 @@ Alternativ dazu kann ein Held **gezielt ausweichen**. Beim Gezielten Ausweichen 
 in **doppelter Höhe** angerechnet. Dafür erleidet der Held keinen INI-Verlust und muss sich nicht
 wieder in Position bringen.
 
+## Nahkampf
+
+### Modifikatoren
+
+TODO, WdS S. 58
+
 ## Fernkampf
 
 ### Modifikatoren

@@ -102,6 +102,13 @@ Das Ereignis wird mit Hilfe von 2W6 festgestellt (siehe Meisterschirm, Patzertab
 - 11: An eigener Waffe verletzt, verursacht halben Waffenschaden
 - 12: Schwerer Eigentreffer, verursacht vollen Waffenschaden
 
+## Misslungene Manöver
+
+Misslint ein Manöver (z.B. das Nutzen einer Kampfsonderfertigkeit), hat das negative Folgen:
+
+- Die Ausdauerkosten fallen in voller Höhe an.
+- Die nächste Angriffs- oder Abwehraktion ist um die gesamte Ansage des Manövers erschwert. Die Erschwernis kann durch eine _Orientieren_-Aktion (freie Aktion) beseitigt werden.
+
 ## Bruchfaktor
 
 Der Bruchfaktor beschreibt den Zustand eines Ausrüstungsgegenstandes. Eine Waffe bricht, wenn:

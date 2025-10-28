@@ -5,6 +5,12 @@ import { For } from 'solid-js/web';
 const links: { href: string; title: string; icon: string }[] = [
   { href: '/dsa-docs', title: 'Home', icon: 'castle-emblem' },
   { href: '/dsa-docs/combat', title: 'Kampfregeln', icon: 'crossed-swords' },
+  { href: '/dsa-docs/magic', title: 'Magieregeln', icon: 'crystal-wand' },
+  {
+    href: '/dsa-docs/survival',
+    title: 'Überlebensregeln',
+    icon: 'chicken-leg',
+  },
 ];
 
 interface Props {

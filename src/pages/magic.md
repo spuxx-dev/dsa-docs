@@ -2,7 +2,7 @@
 layout: layouts/main.astro
 ---
 
-# Zauberei
+# Magieregeln
 
 ## Kritische Treffer
 
